@@ -173,7 +173,6 @@
     <Compile Include="fDangKy.Designer.cs">
       <DependentUpon>fDangKy.cs</DependentUpon>
     </Compile>
-    <Compile Include="testgithubcs.cs" />
     <EmbeddedResource Include="fChangePassword.resx">
       <DependentUpon>fChangePassword.cs</DependentUpon>
     </EmbeddedResource>
